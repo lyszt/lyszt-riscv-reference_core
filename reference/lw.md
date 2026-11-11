@@ -1,0 +1,45 @@
+---
+name: lw
+title: lw
+category: memory
+syntax: "lw rd, off(rs1)"
+operation: "rd = mem[rs1 + off]"
+extension: "Base integer, RV32I"
+pseudo: false
+canonical: https://lyszt.net/academia/resources/riscv/reference/lw
+manual_version: 20260120
+manual_commit: 6ad05e3d
+license: CC-BY-4.0
+---
+
+# lw
+
+> Load a 32-bit word from memory.
+
+**Syntax:** `lw rd, off(rs1)`  
+**Operation:** `rd = mem[rs1 + off]`  
+**Category:** Memory  
+**Extension:** Base integer, RV32I  
+**Encoding:** opcode `0000011`
+ · funct3 `010`
+
+
+## Description
+
+Loads a 32-bit word from memory into a register. In `lw rd, offset(rs1)`, the address is the value in `rs1` plus `offset`, and the stored word is written to `rd`. RISC-V arithmetic works only on registers, and `lw` returns a stored value to where that arithmetic happens.
+
+## Official definition
+
+> Verbatim excerpt from the RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture, Version 20260120. Copyright (c) RISC-V International, used under CC BY 4.0. Attribution in the References section.
+
+RV32I is a load-store architecture, where only load and store instructions access memory and arithmetic instructions only operate on CPU registers. RV32I provides a 32-bit address space that is byte-addressed. The EEI will define what portions of the address space are legal to access with which instructions (e.g., some addresses might be read only, or support word access only). Loads with a destination of `x0` must still raise any exceptions and cause any other side effects even though the load value is discarded.
+
+The LW instruction loads a 32-bit value from memory into `rd`. LH loads a 16-bit value from memory, then sign-extends to 32-bits before storing in `rd`. LHU loads a 16-bit value from memory but then zero extends to 32-bits before storing in `rd`. LB and LBU are defined analogously for 8-bit values. The SW, SH, and SB instructions store 32-bit, 16-bit, and 8-bit values from the low bits of register `rs2` to memory.
+
+## References
+
+1. RISC-V International. The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture. Version 20260120. Section 2.6, Load and Store Instructions, pages 33 to 34. [PDF](https://docs.riscv.org/reference/isa/_attachments/riscv-unprivileged.pdf#page=52)
+
+---
+
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/lw). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
