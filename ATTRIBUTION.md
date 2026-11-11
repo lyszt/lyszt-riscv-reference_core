@@ -12,6 +12,6 @@ Copyright (c) RISC-V International. Used under the Creative Commons
 Attribution 4.0 International license. Keep the per-page References section
 when redistributing or adapting official excerpts.
 
-## LYSZT
+## Collaborators
 
-Description sections and structure are by LYSZT, also under CC BY 4.0.
+Description sections are written by collaborators, also under CC BY 4.0.

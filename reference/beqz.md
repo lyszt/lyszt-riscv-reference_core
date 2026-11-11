@@ -9,7 +9,8 @@ pseudo: true
 canonical: https://lyszt.net/academia/resources/riscv/reference/beqz
 manual_version: 20260120
 manual_commit: 6ad05e3d
-license: CC-BY-4.0
+license: Apache-2.0
+official_license: CC-BY-4.0
 ---
 
 # beqz
