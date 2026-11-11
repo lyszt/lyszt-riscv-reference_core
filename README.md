@@ -3,6 +3,11 @@
 Open mirror of the LYSZT RISC-V instruction reference, rendered at
 [lyszt.net](https://lyszt.net/academia/resources/riscv/reference).
 
+This is documentation of the RISC-V instruction set written for people who are
+learning assembly, with the purpose of explaining clearly what the
+instruction does, in a readable manner.
+
+
 ## Contents
 
 - `reference/` - one page per instruction: curated description, the official
@@ -24,4 +29,11 @@ and remain under CC BY 4.0
 
 Found an error, or an explanation that could be clearer? Open an issue or a
 pull request.
+
+## Rules
+
+Readability comes before everything else, no matter who or what wrote the
+text. A description is ready when a beginner can picture the instruction
+after one reading, and anything that needs a second pass is not. Padding,
+decoration and repetition are turned away, whatever their source.
 
