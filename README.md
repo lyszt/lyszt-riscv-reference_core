@@ -1,4 +1,7 @@
-# LYSZT RISC-V reference
+# LYSZT RISC-V references
+
+<img width="1542" height="789" alt="image" src="https://github.com/user-attachments/assets/ee77147e-e98d-40e5-8106-2f2edad5798e" />
+
 
 Open mirror of the LYSZT RISC-V instruction reference, rendered at
 [lyszt.net](https://lyszt.net/academia/resources/riscv/reference).
