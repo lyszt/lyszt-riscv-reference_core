@@ -13,7 +13,7 @@ Open mirror of the LYSZT RISC-V instruction reference, generated from the
 - Official definition sections are verbatim excerpts of the RISC-V Instruction
   Set Manual, Volume I: Unprivileged Architecture, Version 20260120,
   pinned to commit 6ad05e3d of riscv/riscv-isa-manual.
-- Description sections are written by LYSZT.
+- Description sections are written by colaborators.
 
 ## License
 
