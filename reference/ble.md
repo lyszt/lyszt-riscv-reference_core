@@ -47,4 +47,4 @@ bge rs2, rs1, label
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ble). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ble)

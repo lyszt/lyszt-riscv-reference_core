@@ -58,4 +58,4 @@ In addition to side effects that occur as a consequence of reading or writing a 
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrc). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrc)

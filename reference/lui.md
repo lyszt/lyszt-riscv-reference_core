@@ -42,4 +42,4 @@ LUI (load upper immediate) is used to build 32-bit constants and uses the U-type
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/lui). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/lui)

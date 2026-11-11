@@ -58,4 +58,4 @@ Return-address stack prediction hints encoded in the register operands of a JALR
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jalr). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jalr)

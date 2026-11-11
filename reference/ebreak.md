@@ -50,4 +50,4 @@ srai x0, x0, 7      # Exit NOP
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ebreak). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ebreak)

@@ -42,4 +42,4 @@ Shifts by a constant are encoded as a specialization of the I-type format. The o
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/srli). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/srli)

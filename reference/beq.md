@@ -43,4 +43,4 @@ Branch instructions compare two registers. BEQ and BNE take the branch if regist
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/beq). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/beq)

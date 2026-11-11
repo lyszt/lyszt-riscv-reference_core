@@ -47,4 +47,4 @@ beq rs, zero, label
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/beqz). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/beqz)

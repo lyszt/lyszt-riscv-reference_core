@@ -50,4 +50,4 @@ The CSRRWI, CSRRSI, and CSRRCI variants are similar to CSRRW, CSRRS, and CSRRC r
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrci). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrci)

@@ -42,4 +42,4 @@ AUIPC (add upper immediate to `pc`) is used to build `pc`-relative addresses and
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/auipc). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/auipc)

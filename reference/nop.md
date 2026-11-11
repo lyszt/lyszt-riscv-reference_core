@@ -46,4 +46,4 @@ addi zero, zero, 0
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/nop). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/nop)

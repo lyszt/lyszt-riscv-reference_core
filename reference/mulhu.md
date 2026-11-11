@@ -42,4 +42,4 @@ MUL performs an XLEN-bit×XLEN-bit multiplication of `rs1` by `rs2` and places t
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/mulhu). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/mulhu)

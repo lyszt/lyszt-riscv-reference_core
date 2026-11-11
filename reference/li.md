@@ -46,4 +46,4 @@ lui rd, hi  +  addi rd, rd, lo   # large constants
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/li). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/li)

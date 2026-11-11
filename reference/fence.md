@@ -53,4 +53,4 @@ The unused fields in the FENCE instructions--`rs1 and rd`--are reserved for fine
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/fence). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/fence)

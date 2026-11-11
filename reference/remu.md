@@ -46,4 +46,4 @@ DIV and DIVU perform an XLEN bits by XLEN bits signed and unsigned integer divis
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/remu). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/remu)

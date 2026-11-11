@@ -48,4 +48,4 @@ ADDI adds the sign-extended 12-bit immediate to register `rs1`. Arithmetic overf
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/addi). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/addi)

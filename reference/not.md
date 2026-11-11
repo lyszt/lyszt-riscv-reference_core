@@ -45,4 +45,4 @@ xori rd, rs, -1
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/not). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/not)

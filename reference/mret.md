@@ -30,4 +30,4 @@ Returns from a trap handler. In `mret`, execution continues at the address held 
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/mret). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/mret)

@@ -43,4 +43,4 @@ The LW instruction loads a 32-bit value from memory into `rd`. LH loads a 16-bit
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/lbu). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/lbu)

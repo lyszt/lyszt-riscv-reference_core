@@ -53,4 +53,4 @@ SLTI (set less than immediate) places the value 1 in register `rd` if register `
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/slti). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/slti)

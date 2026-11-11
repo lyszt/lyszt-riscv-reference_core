@@ -41,4 +41,4 @@ ANDI, ORI, XORI are logical operations that perform bitwise AND, OR, and XOR on 
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ori). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ori)

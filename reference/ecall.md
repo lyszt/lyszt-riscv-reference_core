@@ -43,4 +43,4 @@ The `ECALL` instruction is used to make a service request to the execution envir
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ecall). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/ecall)

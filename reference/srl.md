@@ -44,4 +44,4 @@ SLL, SRL, and SRA perform logical left, logical right, and arithmetic right shif
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/srl). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/srl)

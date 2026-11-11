@@ -66,4 +66,4 @@ add t2, t0, t1   # t2 = 7
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/add). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/add)

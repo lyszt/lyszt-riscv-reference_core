@@ -1,6 +1,6 @@
 # RISC-V instruction reference
 
-Generated from the LYSZT reference pipeline.
+Open mirror of the LYSZT RISC-V instruction reference.
 
 
 ## Arithmetic

@@ -57,4 +57,4 @@ jalr zero, rs, 0
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jr). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jr)

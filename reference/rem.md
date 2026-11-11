@@ -50,4 +50,4 @@ Semantics for division by zero and division overflow. L is the width of the oper
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/rem). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/rem)

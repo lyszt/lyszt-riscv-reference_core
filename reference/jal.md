@@ -46,4 +46,4 @@ Return-address prediction stacks are a common feature of high-performance instru
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jal). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/jal)

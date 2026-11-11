@@ -56,4 +56,4 @@ ADD performs the addition of `rs1 and rs2`. SUB performs the subtraction of `rs2
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/slt). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/slt)

@@ -30,4 +30,4 @@ Pauses the hart until work arrives. In `wfi`, execution stops until an interrupt
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/wfi). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/wfi)

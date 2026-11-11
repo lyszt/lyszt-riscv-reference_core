@@ -58,4 +58,4 @@ The assembler pseudoinstruction to read a CSR, CSRR `rd, csr`, is encoded as CSR
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrw). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/csrrw)

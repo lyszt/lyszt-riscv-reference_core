@@ -51,4 +51,4 @@ sw t1, 0(t0)   # memory at slot now holds 99
 
 ---
 
-View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/sw). This page is generated from the [LYSZT reference pipeline](https://lyszt.net).
+View on [lyszt.net](https://lyszt.net/academia/resources/riscv/reference/sw)
