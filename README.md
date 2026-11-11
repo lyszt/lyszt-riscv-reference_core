@@ -11,26 +11,17 @@ Open mirror of the LYSZT RISC-V instruction reference, rendered at
 ## Conventions
 
 - Official definition sections are verbatim excerpts of the RISC-V Instruction
-  Set Manual, Volume I: Unprivileged Architecture, Version 20260120,
-  pinned to commit 6ad05e3d of riscv/riscv-isa-manual.
+  Set Manual, Volume I: Unprivileged Architecture
 - Description sections are written by collaborators.
 
 ## License
 
 Apache License 2.0 for the content of this repository. Official definition
 sections quote the RISC-V Instruction Set Manual, (c) RISC-V International,
-and remain under CC BY 4.0 as recorded in NOTICE.md; keep the attribution in
-each page's References section when redistributing those excerpts.
+and remain under CC BY 4.0
 
 ## Contributing
 
 Found an error, or an explanation that could be clearer? Open an issue or a
-pull request. The description sections are collaborator-written, and factual
-corrections reach the site through review here. The official definition
-sections quote the RISC-V manual verbatim, and fixes to those belong in
-riscv/riscv-isa-manual, not in downstream copies.
+pull request.
 
-## Canonical
-
-Each page links to its canonical rendering on
-[lyszt.net](https://lyszt.net/academia/resources/riscv/reference).
