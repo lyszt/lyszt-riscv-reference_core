@@ -10,6 +10,21 @@ This is documentation of the RISC-V instruction set written for people who are
 learning assembly, with the purpose of explaining clearly what the
 instruction does, in a readable manner.
 
+## Purpose
+
+LYSZT aims to make RISC-V documentation easier to learn from and navigate. The
+official instruction set manual is the authoritative source for architectural
+definitions, but its technical presentation can be difficult to approach when
+learning assembly for the first time.
+
+These references provide an additional layer of explanation for each
+instruction, and the output is translated to many languages so the non-english speaking public can read it and learn.
+They are intended to help readers understand what an instruction does, how it operates on registers
+and memory, and how its encoding relates to its behavior.
+
+The official definitions remain available alongside the explanations, allowing
+readers to compare the descriptions with the architectural specification and
+use the references as a starting point for further study.
 
 ## Contents
 
